@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box; }
+
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html, body {
+  font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+  line-height: 1.5; }
+
+h1, h2, h3, h4, h5, h6 {
+  display: block; }
+
+p {
+  display: block; }
+
+body {
+  color: #000;
+  font-size: 18px;
+  left: auto;
+  right: auto; }
+  body header {
+    background-color: #b3ecff;
+    font-size: 22px;
+    padding: 35px;
+    text-align: center; }
+  body main {
+    padding: 15px; }
+  body footer {
+    background-color: #666;
+    color: #fff;
+    padding: 15px;
+    text-align: center; }
+
+/*# sourceMappingURL=index.css.map */

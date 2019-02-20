@@ -1,0 +1,1 @@
+This is a sample project to basically learn typescript. It uses HTML, SCSS, jQuery, typescript.
